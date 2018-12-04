@@ -1,3 +1,5 @@
+require 'polyamorous/version'
+
 if defined?(::ActiveRecord)
   module Polyamorous
     InnerJoin = Arel::Nodes::InnerJoin

@@ -1,5 +1,16 @@
 # Polyamorous
 
+## Update
+
+12/4/2018
+
+The updated code from the ransack gem has been integrated into this fork of the Polyamorous gem, in order to keep the dependency up to date for the baby_squeel gem. 
+
+With this fork, baby_squeel is working for me up to rails 5.2.1.1.
+
+Caveat - I am not using a lot of the baby_squeel features, so your milage may vary.
+
+
 ## Announcement
 
 Polyamorous is merged into Ransack since Squeel and MetaSearch is not maintained anymore. 
